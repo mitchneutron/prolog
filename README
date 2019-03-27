@@ -1,0 +1,7 @@
+These projects were created by Mitchell Mortensen
+
+I used SWI-Prolog for these projects.
+
+Schools out and Rosie's roses are both logic problems. I encode the data and then solve based on the constraints. 
+
+Sudoku is slightly more involved, and it can solve any arbitrary sudoku puzzle. 
